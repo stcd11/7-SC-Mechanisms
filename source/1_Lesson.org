@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* An introduction to Mechanisms
+* Cams
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -102,34 +102,43 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - A mechanism is a device that takes an input motion or force and outputs a different motion or force.
-- Gears, for instance, are a type of mechanism.
+- Gears trains, for instance, are a type of mechanism.
 [[https://upload.wikimedia.org/wikipedia/commons/1/14/Gears_animation.gif]]
-- In this project you're going to be looking at different types of Cam.
+- This gear train takes rotary motion as input, and outputs rotary motion. The difference between the input and output is the speed and direction of the motion.
+- In this project you're going to be looking at different type mechanism called a Cam Mechanism.
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Cam mechanisms turn rotary motion (round and round) into reciprocating motion (back and forth)
+- Cam mechanisms turn rotary motion (round and round) into reciprocating motion (up and down)
 [[https://upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif]]
-- There are many different types of Cam.
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- A cam mechanism is made up of three parts: cam, slide and follower.
+- A cam mechanism is made up of three main parts: cam, slide and follower. In the image below, the slide (or guide) is the red ring.
+[[https://msc-ks3technology.wikispaces.com/file/view/Cam3D.png/32381945/Cam3D.png]]
 - The cam rotates continually. The follower is a rod that rests on the edge of the turning cam.
 - The follower moves up and down, but can't move to the side because of the slide or guide.
 - This means the cam follower can only:
   - Rise
   - Fall
   - Dwell
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- We can draw what are know as =displacement graphs= for any cam mechanism.
+- A displacement graph shows how the follower moves as the cam rotates.
+- Below is a quick sketch of a displacement graph with the cam drawn beside it.
+[[file:img/displacement-graph.jpg]]
+- The graph clearly shows how the follower =rises=, =dwells= for a small ammount of time, =falls= and then =dwells= for a longer period.
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For each of the Cams listed below, use online resources to find animations of them working.
-- Using simple the key words above, describe the motion of the followers, driven by these cams.
-  1. Pear-shaped cam
+- For each of the cams listed below, try to =roughly= sketch the displacement graphs you think you would get.
+  1. Elliptical cam
   2. Eccentric cam
   3. Drop cam
 ** Badge It - Gold
