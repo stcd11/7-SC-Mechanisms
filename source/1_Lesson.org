@@ -130,9 +130,14 @@
 :END:
 - We can draw what are know as =displacement graphs= for any cam mechanism.
 - A displacement graph shows how the follower moves as the cam rotates.
-- Below is a quick sketch of a displacement graph with the cam drawn beside it.
-[[file:img/displacement-graph.jpg]]
-- The graph clearly shows how the follower =rises=, =dwells= for a small ammount of time, =falls= and then =dwells= for a longer period.
+- Follow these steps to create your own displacement graphs. This one is for a pear cam.
+[[file:img/IMG_0922.jpg]]
+[[file:img/IMG_0923.jpg]]
+[[file:img/IMG_0925.jpg]]
+[[file:img/IMG_0926.jpg]]
+[[file:img/IMG_0927.jpg]]
+[[file:img/IMG_0928.jpg]]
+
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
