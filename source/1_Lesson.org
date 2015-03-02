@@ -146,18 +146,63 @@
   1. Elliptical cam
   2. Eccentric cam
   3. Drop cam
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- Let's try and make one of the Cams in SolidWorks
+- We'll make a pear-shaped Cam.
+- If you've forgotten how to get started in SolidWorks, then ask your teacher for some help.
+- First we'll need a couple of circles, as shown below
+[[file:img/pear1.PNG]]
+- Notice the little symbol between the circles like this.
+[[file:img/pear2.PNG]]
+- This means they have a tangential relationship (look up the word tangent if you don't know what that means)
+- You can give sketch elements a tangential relationship by shift-clicking both elements and choosing =tangent= from the menu on the left
+[[file:img/pear1a.PNG]]
+- The centre of the two circles also have a =horizontal= relationship
+- Now draw two straight lines as shown below. Don't let them touch the circles yet.
+[[file:img/pear3.PNG]]
+- We can now give the lines a tangential relationship with each of the circles.
+[[file:img/pear4.PNG]]
+-Then use thew trim tool to cut away the lines you don't want
+[[file:img/pear5.PNG]]
+- Lastly you can add a small circle in the cam, where doweling would go.
+[[file:img/pear6.PNG]]
+- Once completed, you can extrude the sketch.
+- Note that this is just practice and not your actual cam, which will need to have a different center cut-out.
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Using SolidWorks, produce two of the Cams below (Not Eccentric, Round or Ellipse though).
+- Using SolidWorks, produce either a heart, drop, irregular or ratchet cam.
 - The Cam's diameter must not exceed 60mm.
 [[file:img/cams.jpg]]
-- Don't worry about putting the hole in the middle, we'll do that later.
 - Screenshot your finished sketches including the part where it states your sketch is fully defined.
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+- We can animate cams in SolidWorks as well.
+- Create a new assembly and import in one of your cams.
+- Now select =New Motion Study= from the tool bar.
+[[file:img/pear7.PNG]]
+- Near the bottom of the screen, the motion study will appear. In it's tool bar is the symbol for a motor - click it.
+[[file:img/pear8.PNG]]
+- Now you'll need to select the inner face of the cam, to choose what part the motor will turn.
+file:img/pear9.PNG
+- You should see it populated in the menu on the left. You can make other changes here as well, such as the speed of rotation.
+file:img/pear10.PNG
+- Once you're done, watch the animation using the play buttons.
+file:img/pear11.PNG
+#+begin_html
+<iframe width="420" height="315" src="https://www.youtube.com/embed/MdtcLnwN5uM" frameborder="0" allowfullscreen></iframe>
+#+end_html
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - SolidWorks can be used to produce animations.
 - Independently (or with a little help from your teacher), produce an animation of one of your cams rotating.
+- Using the save icon, you can produce a video of you cam moving.
