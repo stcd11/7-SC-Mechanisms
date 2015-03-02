@@ -108,7 +108,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- We can use pulleys to increase or decrease the speed of rotarty motion.
+- We can use pulleys to increase or decrease the speed of rotary motion.
 - Look at the diagram below
 [[https://www.bbc.co.uk/staticarchive/97fe6399a4d793223ee9826adee2b5017e17d385.gif]]
 - The =driver= pulley has a diameter of 40mm and revolves at 100 revolutions per minute (=rpm=).
@@ -186,9 +186,29 @@
 :END:
 - Use SolidWorks to draw sketches of the pulley parts above and then extrude them by 3mm.
 - Take screenshots of your work and ensure you are including the part that proves your sketch is fully defined.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You can create pulley mechanisms in SolidWorks that actually work.
+- Follow the guide below and see if you can create a simple pulley mechanism.
+- Firstly you'll need to create a couple of pulley wheels and place them into an assembly as shown below. These pulleys have extra holes, just so that you can see them spinning.
+[[file:img/pulley1.PNG]]
+- Now we'll need to make sure they are lined up with each other, by mating two of the faces.
+file:img/pulley2.PNG
+- Next we add a belt. Belts can be found in the =Assembly Features= menu.
+[[file:img/pulley3.png]]
+- Select the curved faces of both your pulleys.
+[[file:img/pulley4.PNG]]
+- Lastly we'll need to float the first pulley you placed in the Assembly. At the moment it is fixed and so can't move. Right click on the pulley and select =float= from the context menu
+[[file:img/pulley6.png]]
+- If you want you can now add a motor to the driver pulley, like you did in the cams lesson.
+#+begin_html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wzg8bHEP9_E" frameborder="0" allowfullscreen></iframe>
+#+end_html
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Create an assembly of your driver and driven pulleys and link them with a belt.
-- Animate the pulleys using a motor for the driven pulley.
+- Create a pulley mechanism using more than two pulleys.
+- Animate the pulleys using a motor for the driver pulley.
