@@ -1,0 +1,136 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Build - Part 1
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- The initial build for this project won't take long.
+- You're going to build the basic frame of your mechanisms project, before designing the cams.
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Collect the pieces you will need.
+[[file:img/build/build_1.jpg]]
+- First you'll need the base and the two corner supports.
+[[file:img/build/build_2.jpg]]
+- Apply some PVA glue to the finger-joints of the supports.
+[[file:img/build/build_3.jpg]]
+- Then insert them into the base.
+[[file:img/build/build_4.jpg]]
+- Now take the side struts and apply a little more glue to the finger-joints and along the edges.
+[[file:img/build/build_5.jpg]]
+- Fix them using the corner supports, so that they are perpendicular to the base.
+[[file:img/build/build_8.jpg]]
+- Next you'll need the follower guides.
+[[file:img/build/build_9.jpg]]
+- Apply glue to the finger joints, and insert them between the verticle struts.
+[[file:img/build/build_10.jpg]]
+[[file:img/build/build_11.jpg]]
+- And that's the first part of the build completed.
+** Badge It- Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Take four photos of your first build phase
+- You'll need a plan elevation, front elevation, side elevation and a perspective elevation.
+- The diagram below should help you.
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_angle_projection.svg/641px-First_angle_projection.svg.png]]
