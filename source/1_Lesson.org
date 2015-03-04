@@ -197,7 +197,7 @@ file:img/pear10.PNG
 - Once you're done, watch the animation using the play buttons.
 [[file:img/Pear11.PNG]]
 #+begin_html
-<iframe width="420" height="315" src="https://www.youtube.com/embed/MdtcLnwN5uM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdtcLnwN5uM?rel=0" frameborder="0" allowfullscreen></iframe>
 #+end_html
 ** Badge It - Platinum
 :PROPERTIES:
