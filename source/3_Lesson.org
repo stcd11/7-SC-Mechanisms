@@ -101,7 +101,45 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-
+- There are many different forms of energy.
+- When you pick up a ball, you give it what is known as Gravitational Potential Energy.
+- When you drop it, the Gravitational Potential Energy is converted to Kinetic Energy (movement). In other words, the ball falls.
+- Other types of energy are:
+  1. Electrical Energy
+  2. Nuclear Energy
+  3. Thermal Energy (Heat)
+  4. Light Energy
+  5. Chemical Energy (Fuel)
+  6. Elastic Potential Energy. 
+  7. Sound Energy
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Certain devices can convert one form of energy to another.
+  - A solar panel can convert light energy to electrical energy.
+  - A wind turbine converts kinetic energy to electrical energy.
+  - A fire convert chemical energy to light and heat energy.
+- In this project you can use a motor. An electic motor can convert electrical energy to kinetic energy.
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Describe the energy conversions that happen in the following systems. Use the web to help you.
+  1. A Battery
+  2. An LED
+  3. A Buzzer
+  4. A Dynamo
+  5. Television.
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- An electric motor converts, electrical energy into kinetic energy.
+- It achieves this by the use of magnets.
+- Look at the diagram below.
+[[https://hyperphysics.phy-astr.gsu.edu/hbase/audio/imgaud/spk.gif]]
+- When an electric curret passes through a wire, that is inside a magnetic filed, the wire experiences a force that will move it.
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
