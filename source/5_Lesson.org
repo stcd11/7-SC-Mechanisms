@@ -97,6 +97,9 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+#+begin_html
+<iframe width="600" height="450" src="https://www.youtube.com/embed/3-jy8plocLA?rel=0" frameborder="0" allowfullscreen></iframe>
+#+end_html
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
