@@ -102,15 +102,22 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Below you'll find drawings of each of the parts of the Cam mechanism that you are manufacturing.
-- Bellow are the parts you'll need to sketch and extrude in SolidWorks.
 - None of the parts are to scale, so read the dimensions carefully
+*** Follower Guide
 [[file:img/guide.png]]
+*** Right-hand side
 [[file:img/right.png]]
+*** Left-hand side
 [[file:img/left.png]]
+*** Base
 [[file:img/base.png]]
+*** Corner support
 [[file:img/support.png]]
+*** Follower axle
 [[file:img/short-axel.png]]
+*** Main axle
 [[file:img/long-axel.png]]
+*** Follower Cap
 [[file:img/follower-cap.png]]
 ** Badge It - Silver
 :PROPERTIES:
