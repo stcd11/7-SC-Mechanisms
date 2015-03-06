@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Build - Part 1
+* Modeling the Cam Mechanism
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -101,36 +101,38 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- The initial build for this project won't take long.
-- You're going to build the basic frame of your mechanisms project, before designing the cams.
-** Build It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: build
-:END:
-- Collect the pieces you will need.
-[[file:img/build/build_1.jpg]]
-- First you'll need the base and the two corner supports.
-[[file:img/build/build_2.jpg]]
-- Apply some PVA glue to the finger-joints of the supports.
-[[file:img/build/build_3.jpg]]
-- Then insert them into the base.
-[[file:img/build/build_4.jpg]]
-- Now take the side struts and apply a little more glue to the finger-joints and along the edges.
-[[file:img/build/build_5.jpg]]
-- Fix them using the corner supports, so that they are perpendicular to the base.
-[[file:img/build/build_8.jpg]]
-- Next you'll need the follower guides.
-[[file:img/build/build_9.jpg]]
-- Apply glue to the finger joints, and insert them between the verticle struts.
-[[file:img/build/build_10.jpg]]
-[[file:img/build/build_11.jpg]]
-- And that's the first part of the build completed.
-** Badge It- Silver
+- Below you'll find drawings of each of the parts of the Cam mechanism that you are manufacturing.
+- Bellow are the parts you'll need to sketch and extrude in SolidWorks.
+- None of the parts are to scale, so read the dimensions carefully
+[[file:img/guide.png]]
+[[file:img/right.png]]
+[[file:img/left.png]]
+[[file:img/base.png]]
+[[file:img/support.png]]
+[[file:img/short-axel.png]]
+[[file:img/long-axel.png]]
+[[file:img/follower-cap.png]]
+** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-
-- Take four photos of your first build phase
-- You'll need a plan elevation, front elevation, side elevation and a perspective elevation.
-- The diagram below should help you.
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_angle_projection.svg/641px-First_angle_projection.svg.png]]
+- Create each of the parts in SolidWorks.
+- Adapt two of the Cams you have made, so that they have crosses in the centre to fit the axle.
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Create an Assembly of your mechanism.
+- The image below should help you understand how the pieces fit together.
+[[file:img/gifs/exploded.gif]]
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Use the animation tools to create an animation of your working mechanism.
+- HINT - there is a special type of =mate= called a =cam mate=, see if you can use it to mate your cams to your followers.
+[[file:img/gifs/animated.gif]]
