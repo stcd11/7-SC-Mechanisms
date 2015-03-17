@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Build - Part 1
+* Making your own follower parts.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -101,35 +101,30 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- The initial build for this project won't take long.
-- You're going to build the basic frame of your mechanisms project, before designing the cams.
-** Build It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: build
-:END:
-- Collect the pieces you will need.
-[[file:img/build/build_1.jpg]]
-- First you'll need the base and the two corner supports.
-[[file:img/build/build_2.jpg]]
-- Apply some PVA glue to the finger-joints of the supports.
-[[file:img/build/build_3.jpg]]
-- Then insert them into the base.
-[[file:img/build/build_4.jpg]]
-- Now take the side struts and apply a little more glue to the finger-joints and along the edges.
-[[file:img/build/build_5.jpg]]
-- Fix them using the corner supports, so that they are perpendicular to the base.
-[[file:img/build/build_8.jpg]]
-- Next you'll need the follower guides.
-[[file:img/build/build_9.jpg]]
-- Apply glue to the finger joints, and insert them between the verticle struts.
-[[file:img/build/build_10.jpg]]
-[[file:img/build/build_11.jpg]]
-- And that's the first part of the build completed.
-** Badge It- Silver
+
+- In this section you are going to design and make your additions to your followers.
+- These could be purely for decoration, or serve some function.
+- Here's one with some model tools placed on the top.
+[[file:img/tools.gif]]
+- Here's one with some decorative parts on the top.
+** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Take four photos of your first build phase
-- You'll need a plan elevation, front elevation, side elevation and a perspective elevation.
-- The diagram below should help you.
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_angle_projection.svg/641px-First_angle_projection.svg.png]]
+
+- Design your parts in SolidWorks, and take screen shots of the parts.
+- Remember to think about how they are going to attach to your follower caps.
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Convert your sketches to .dxf, then import them into TechSoft2D
+- Laser cut your parts and add them to your Cam mechanism project.
+- Take photos of your mechanism using standard elevations.
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Add your parts to your Cam assembly, so that they move as the Cams rotate.
+- Create a video of the assembly moving.
