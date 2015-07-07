@@ -107,6 +107,7 @@
 - Here's one with some model tools placed on the top.
 [[file:img/tools.gif]]
 - Here's one with some decorative parts on the top.
+[[file:img/tweetie.gif]]
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
