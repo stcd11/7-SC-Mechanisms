@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Modeling the Cam Mechanism
+* Modelling the Cam Mechanism
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -123,19 +123,21 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Create each of the parts in SolidWorks.
+- Create *three* of the parts in SolidWorks. The follower guide, corner support  and the follower cap.
+- Upload these as screenshots.
 - Adapt two of the Cams you have made, so that they have crosses in the centre to fit the axle.
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Create an Assembly of your mechanism.
+- Create an Assembly of your mechanism. The other 5 pieces needed are in the open drive > Systems and Control > Year 7 > 4 - Mechanisms > Solidworks > solidwork parts.
+- These need to be saved into your area before you can begin assembling the frame.
 - The image below should help you understand how the pieces fit together.
 [[file:img/gifs/exploded.gif]]
-** Learn It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
+- Also there is a video to help.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8W7-ZNBAoo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
