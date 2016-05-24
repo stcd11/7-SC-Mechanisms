@@ -3,7 +3,7 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: Marc Scott. Tweaked by Paul Dougall
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
@@ -107,7 +107,25 @@
 - Here's one with some model tools placed on the top.
 [[file:img/tools.gif]]
 - Here's one with some decorative parts on the top.
-[[file:img/tweetie.gif]]
+file:img/tweetie.gif 
+
+- Here are some videos to help:
+
+- The first video will show you how to use Autotrace a feature in Solidworks which allows to create a sketch around an image.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PPzlnET1sKQ" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+- The second video will show you show you how to make a custom top to go on the follower axles.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cd9_eNa3wJQ" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+- The final video shows you how to take your Solidworks parts and import them into 2D Design ready to be cut on the lasercutter.
+
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
