@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -123,8 +123,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Create *three* of the parts in SolidWorks. The follower guide, corner support  and the follower cap.
-- Upload these as screenshots.
+- After creating all the parts in SolidWorks. Upload *one* screenshot of *the follower guide*.
 - Adapt two of the Cams you have made, so that they have crosses in the centre to fit the axle.
 ** Badge It - Gold
 :PROPERTIES:

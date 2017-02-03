@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -125,7 +125,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Describe the energy conversions that happen in the following systems. Use the web to help you.
+- Click on this [[https://www.bournetocode.com/quizzes/y7-mech/Lesson_3][link]] to complete the quiz on the energy conversions that happen in the following systems. Use the web to help you.
   1. A Battery
   2. An LED
   3. A Buzzer
@@ -144,6 +144,9 @@
   1. the direction of the magnetic field is from right to left (always N to S).
   2. the direction of the current is going into the screen.
   3. the force on the wire is upwards.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAtPHANEfQo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge

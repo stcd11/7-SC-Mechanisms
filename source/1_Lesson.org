@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -142,10 +142,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- For each of the cams listed below, try to =roughly= sketch the displacement graphs you think you would get.
-  1. Elliptical cam
-  2. Eccentric cam
-  3. Drop cam
+- Click on the following [[https://www.bournetocode.com/quizzes/y7-mech/Lesson_1][link]] to complete the quiz on different types of cams and displacement graphs.
 
 ** Try It
 :PROPERTIES:

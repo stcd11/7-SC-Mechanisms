@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott
+#+AUTHOR: C Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -130,7 +130,5 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-- Take four photos of your first build phase
-- You'll need a plan elevation, front elevation, side elevation and a perspective elevation.
-- The diagram below should help you.
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_angle_projection.svg/641px-First_angle_projection.svg.png]]
+- Take one photo of your first build phase showing as much detail as possible.
+
