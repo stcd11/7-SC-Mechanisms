@@ -34,7 +34,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/6_Lesson.html][Week 6 - Custom Followers]]
+* [[file:pages/7_homework.html][Homework]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
