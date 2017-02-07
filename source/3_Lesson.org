@@ -125,7 +125,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Click on this [[https://www.bournetocode.com/quizzes/y7-mech/Lesson_3][link]] to complete the quiz on the energy conversions that happen in the following systems. Use the web to help you.
+- Click on this [[https://www.bournetolearn.com/quizzes/y7-mech/Lesson_3][link]] to complete the quiz on the energy conversions that happen in the following systems. Use the web to help you.
   1. A Battery
   2. An LED
   3. A Buzzer

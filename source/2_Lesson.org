@@ -167,7 +167,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:
 - For each of the problems below - draw a diagram of the pulleys described and then calculate the answer.
-- Now click on the [[https://www.bournetocode.com/quizzes/y7-mech/Lesson_2][link]] and fill your answers into the quiz.
+- Now click on the [[https://www.bournetolearn.com/quizzes/y7-mech/Lesson_2][link]] and fill your answers into the quiz.
   1. A driver pulley has a diameter of 200mm and rotates with a speed of 60rpm. Calculate the speed of a driven pulley with a diameter of 50mm.
   2. A driver pulley has a diameter of 80mm and rotates with a speed of 250rpm. Calculate the speed of a driven pulley with a diameter of 400mm.
   3. A driver pulley has a diameter of 100mm and rotates with a speed of 50rpm. Calculate the required diameter of a driven pulley if we want it to rotate at 125rpm.

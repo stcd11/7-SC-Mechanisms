@@ -142,7 +142,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Click on the following [[https://www.bournetocode.com/quizzes/y7-mech/Lesson_1][link]] to complete the quiz on different types of cams and displacement graphs.
+- Click on the following [[https://www.bournetolearn.com/quizzes/y7-mech/Lesson_1][link]] to complete the quiz on different types of cams and displacement graphs.
 
 ** Try It
 :PROPERTIES:
