@@ -129,7 +129,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Create an Assembly of your mechanism. The other 5 pieces needed are in the open drive > Design Engineering > Year 7 > 4 - Mechanisms > Solidworks > solidwork parts.
+- Create an Assembly of your mechanism. The other 5 pieces needed are in the open drive > Design Engineering > Year 7 > 4 - Mechanisms.
 - These need to be saved into your area before you can begin assembling the frame.
 - The image below should help you understand how the pieces fit together.
 [[file:img/gifs/exploded.gif]]
