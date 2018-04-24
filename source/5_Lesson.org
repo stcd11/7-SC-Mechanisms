@@ -105,6 +105,9 @@
 - None of the parts are to scale, so read the dimensions carefully
 *** Follower Guide
 [[file:img/guide.png]]
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8W7-ZNBAoo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
 *** Right-hand side
 [[file:img/right.png]]
 *** Left-hand side
@@ -135,7 +138,7 @@
 [[file:img/gifs/exploded.gif]]
 - Also there is a video to help.
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c8W7-ZNBAoo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqCXJ3AqfgU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 #+END_HTML
 ** Badge It - Platinum
 :PROPERTIES:
