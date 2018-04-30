@@ -128,6 +128,9 @@
 :END:
 - After creating all the parts in SolidWorks. Upload *one* screenshot of *the follower guide*.
 - Adapt two of the Cams you have made, so that they have crosses in the centre to fit the axle.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Wj6rgHSN7A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+END_HTML
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
