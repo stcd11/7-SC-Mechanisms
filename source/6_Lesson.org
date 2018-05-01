@@ -113,6 +113,9 @@ file:img/tweetie.gif
 
 - The first video will show you how to use Autotrace a feature in Solidworks which allows to create a sketch around an image.
 #+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85taO_TI1Rw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+END_HTML
+#+BEGIN_HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPzlnET1sKQ" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
 - The second video will show you show you how to make a custom top to go on the follower axles.
@@ -124,7 +127,6 @@ file:img/tweetie.gif
 #+BEGIN_HTML
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
-
 
 ** Badge It - Silver
 :PROPERTIES:
