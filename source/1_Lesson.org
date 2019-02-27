@@ -117,7 +117,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - A cam mechanism is made up of three main parts: cam, slide and follower. In the image below, the slide (or guide) is the red ring.
-[[https://msc-ks3technology.wikispaces.com/file/view/Cam3D.png/32381945/Cam3D.png]]
+[[./img/Slide_identifier.jpg]]
 - The cam rotates continually. The follower is a rod that rests on the edge of the turning cam.
 - The follower moves up and down, but can't move to the side because of the slide or guide.
 - This means the cam follower can only:
