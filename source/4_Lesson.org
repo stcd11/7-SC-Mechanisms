@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Build - Part 1
+* Build
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -103,7 +103,7 @@
 :END:
 - The initial build for this project won't take long.
 - You're going to build the basic frame of your mechanisms project, before designing the cams.
-** Build It
+** Build It Part 1
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
 :END:
@@ -126,9 +126,33 @@
 [[file:img/build/build_11.jpg]]
 - And that's the first part of the build completed.
 ** Badge It- Silver
+** Build It Part 2
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+- Collect the pieces you will need.
+[[file:img/build/build_part2_1.jpg]]
+- First you'll need the pulley crank handle part - with the hole in it.
+[[file:img/build/build_part2_2.jpg]]
+- Use the countersink tool to countersink the hole and then place the machine screw through it and tighten the nut on the opposite side using the spanner.
+[[file:img/build/build_part2_3.jpg]]
+- Next collect the following 2 parts and place them together as seen below.
+[[file:img/build/build_part2_4.jpg]]
+[[file:img/build/build_part2_5.jpg]]
+- Now use some PVA glue and glue the one end.
+[[file:img/build/build_part2_6.jpg]]
+- Now slide the other pulley side (no hole) over the cam shaft.
+[[file:img/build/build_part2_7.jpg]]
+- Next slide the pulley into place and put PVA glue on the flat surface.
+[[file:img/build/build_part2_8.jpg]]
+- Next, place the hexagonal part in place and then glue the flat surface.
+[[file:img/build/build_part2_9.jpg]]
+- Finally, place the first pulley handle in place and slide them to the end.
+[[file:img/build/build_part2_10.jpg]]
+[[file:img/build/build_part2_11.jpg]]
+- Now tape these parts to the side of your frame, *Do not push it through the frame, as this will glue it in place.*
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 
-- Take one photo of your first build phase showing as much detail as possible.
 
