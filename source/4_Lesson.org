@@ -125,7 +125,11 @@
 [[file:img/build/build_10.jpg]]
 [[file:img/build/build_11.jpg]]
 - And that's the first part of the build completed.
-** Badge It- Silver
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Take a picture of your completed frame and upload it to www.bournetolearn.com.
 ** Build It Part 2
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: build
