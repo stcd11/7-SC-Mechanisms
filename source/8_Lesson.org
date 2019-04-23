@@ -1,0 +1,191 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Paul Dougall
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="7_Lesson.html">Week7</a></li>
+      <li><a href="8_Lesson.html">Week8</a></li>
+
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Making your automata - Solidworks
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+To make your own automata using *Solidworks* there are a number of skills that you need to 
+be able to master.
+
+** Learn It - Changing an existing part
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Right click on the part, in the assembly, select the edit sketch/pencil icon in top right. 
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCaKbu4BNWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+** Learn It - Autotrace
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END: 
+- From the toolbar at the top make sure you go to tools > Add-ins and enable autotrace with the *two* checkboxes.
+- Go to google images and find a suitable image and save it
+- In Solidworks start a new part. 
+- Click on sketch then select a plane
+- Go to the commands search bar an type in 'Sketch picture'
+- Select your saved image
+- Carefully change the size - *Note* Your frame is 100mm wide.
+- In the left sidebar - cick the right arrow 
+- Select the dropper tool and then click on your image
+- Begin trace
+- Adjust your image.
+- Tidy up sketch by adding lines and trimming off spares.
+- Extrude to 3mm
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOUJDC0BJJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+** Learn It - Converting a Solidworks part into a DXF file
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Make sure the part is flat or front on.
+- Right click on the part. 
+- Choose convert into a DXF file.
+- Select options and make sure 'polylines' is selected.
+- Save
+- Select annotation view and green tick to select.
+- From the black and white preview save the file.
+- Repeat with all your parts that you need to cut.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tCrKIf2MbrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Import a DXF file into 2D Design
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Open 2D Design.
+- From the top menu go to File > Import File
+- Select your file.
+- Make sure it is in 'mm' and ignore the warnings.
+- Change the lines to red and move into the corner.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SvVxidLL_Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Final checks and send to the lasercutter
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Firstly make sure your file is saved with a suitable name. 
+- Next check all parts are squashed together, to save material and labelled if necessary.
+- Then go to Outlook – should be a link on the bottom toolbar in Windows – big O. Click on new. Type the address lasercutter and then check names. Attach the file and send it. 
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtbspqEoJxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Badge It - Silver, Gold and Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- For silver add screenshots of your new parts.
+- For gold add a cutting sheet
+- For platinum, upload a photo of your finished automata.
+

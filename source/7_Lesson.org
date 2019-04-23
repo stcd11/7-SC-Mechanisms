@@ -101,7 +101,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-To make your own automata using *2D Design* there are a munber of skills that you need to 
+To make your own automata using *2D Design* there are a number of skills that you need to 
 be able to do.
 
 ** Learn It - Drawing boundary boxes
