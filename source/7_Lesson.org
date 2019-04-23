@@ -1,0 +1,229 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Paul Dougall
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Making your automata - 2D Design
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+To make your own automata using *2D Design* there are a munber of skills that you need to 
+be able to do.
+
+** Learn It - Drawing boundary boxes
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- On the side bar, click and hold one line tool and select the third option ‘given angle and length’.
+- Type in the numbers you need. For example – 106mm by 0 degrees and 25mm by 90 degrees.
+- Below is a video to help.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imPdqbJcGqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Find suitable images online
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Go to the website www.google.co.uk , type in what you want an image of. 
+- Click on images – tools – black and white – clipart
+- Find a good image – remember the laser cutter only works in one colour so keep the images simple.
+- Right click - Copy and paste into 2D design.
+- *Please note* - not all images will work. Just keep trying until you get one that works. 
+- Below is a video to help.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d17t_iy3n7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Scale
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- By clicking shift and then dragging a corner of the image you will maintain the images overall proportions i.e. it won’t be squashed or stretched.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DMxDlTx5tFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Vectorise the image
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- At the top, go to Bitmaps > Vectorise Bitmap. Monochrome. OK. OK.
+- Below is a video to help
+#+BEGIN_HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCxMG_wQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Contour
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END: 
+- On the side toolbar, click on the Contour tool > spacing 0.00mm. Select red colour. Click on the outside of the image.
+- Then move the contour layer away from the original image by dragging with the mouse.
+
+- Below is a video to help
+#+BEGIN_HTML
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/v1xIDcnJOpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Holes for cutting
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- On the side toolbar click on the circle tool – select the second option with an ‘R’. Change to 1.5mm.
+- Click where you want the hole to be.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qGKmhh3V3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Measuring using the dimension tool
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- On the side toolbar, click on the dim lines tool. You need to draw a horizontal or vertical line, or both, on the object you want measuring. If you select the object and the dim lines, hold shift, you can resize objects with some accuracy.
+- *Please note:* You will need to delete these lines when you have finished drawing otherwise they will be included in the cut.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tCrKIf2MbrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Adding Text
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- From the side toolbar select the text tool. Click where you want to add text.
+- Type your message then go to Settings to change the font size and type.
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ferVsXF9rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - Email to the lasercutter
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Firstly make sure your file is saved with a suitable name. Then go to Outlook – should be a link on the bottom toolbar in Windows – big O. Click on new. Type the address lasercutter and then check names. Attach the file and send it. 
+- Below is a video to help
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iQgy7vNHvZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Learn It - A worked example
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Here is a worked example from start to finish. Please note: the sound and images are sometimes not in sync. 
+<old video>
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85taO_TI1Rw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+
+** Badge It - Silver, Gold and Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- For silver add screenshots of your new parts.
+- For gold add a cutting sheet
+- For platinum, upload a photo of your finished automata.
+

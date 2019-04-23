@@ -3,12 +3,12 @@
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
 #+TITLE: An Introduction to Mechanisms
-#+AUTHOR: Marc Scott. Tweaked by Paul Dougall tweaked further by C Delport
+#+AUTHOR: Paul Dougall
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
+            <a href="https://github.com/MarcScott/7-SC-Mechanisms">Fork me on GitHub</a>
         </div>
     </div>
     <div class="github-fork-ribbon-wrapper right-bottom">
@@ -93,7 +93,7 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* Making your own follower parts.
+* Planning your automata
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -101,51 +101,68 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-
-- In this section you are going to design and make your additions to your followers.
-- These could be purely for decoration, or serve some function.
-- Here's one with some model tools placed on the top.
-[[file:img/tools.gif]]
-- Here's one with some decorative parts on the top.
-file:img/tweetie.gif 
-
-- Here are some videos to help:
-
-- The first video will show you how to use Autotrace a feature in Solidworks which allows to create a sketch around an image.
+- *Have an idea* 
+The best automata have a message or a theme. They can be moving works of art.
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/85taO_TI1Rw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-#+END_HTML
-#+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PPzlnET1sKQ" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
-- The second video will show you show you how to make a custom top to go on the follower axles.
-#+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cd9_eNa3wJQ" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
-- The final video shows you how to take your Solidworks parts and import them into 2D Design ready to be cut on the lasercutter.
 
-#+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
+<img src="img/tools.gif" alt="tools.gif">
+<img src="img/tweetie.gif" alt="tweetie.gif">
 #+END_HTML
 
-** Badge It - Silver
+- Research and find some ideas. Decide what you want to make.  
+- Remember it is better for it to be simple and work than too complex and not. 
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2iogj3dlEBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
+** Move It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+Choose a motion or motions – note we have two followers which can have the same or different movements.
+- Up and down
+#+BEGIN_HTML
+<iframe src="https://player.vimeo.com/video/103386101?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#+END_HTML
+
+- Round and round
+#+BEGIN_HTML
+<iframe src="https://player.vimeo.com/video/112753108?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#+END_HTML
+
+- Up and down + round and round
+
+#+BEGIN_HTML
+<iframe src="https://player.vimeo.com/video/112753113?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#+END_HTML
+
+- Back and forth
+#+BEGIN_HTML
+<iframe src="https://player.vimeo.com/video/112753107?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#+END_HTML
+
+- Side to side
+#+BEGIN_HTML
+<iframe src="https://player.vimeo.com/video/112753109?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+#+END_HTML
+ Very tricky as you would need to rotate the axle 90 degrees!
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+- Sketch it out on paper. 
+- Think about how things are going to fit together and move. 
+- Show on your sketch how the automata is going to move.
+- Think about materials and sizes. 
+- Label your diagrams.
+
+** Badge It - Silver, Gold and Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Submit your idea to your teacher to make sure you are on the right lines.
+- Your sketch needs to be clear i.e. can your teacher see how it goes together.
+- For gold it needs to included materials and sizes.
+- For platinum it needs to be a fully clear what you are intended to build.
 
-- Design your parts in SolidWorks, and take screen shots of the parts.
-- Remember to think about how they are going to attach to your follower caps.
-** Badge It - Gold
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-
-- Convert your sketches to .dxf, then import them into TechSoft2D
-- Laser cut your parts and add them to your Cam mechanism project.
-- Take photos of your mechanism using standard elevations.
-** Badge It - Platinum
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-- Add your parts to your Cam assembly, so that they move as the Cams rotate.
-- Create a video of the assembly moving.

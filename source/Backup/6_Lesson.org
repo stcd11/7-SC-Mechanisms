@@ -1,0 +1,151 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: An Introduction to Mechanisms
+#+AUTHOR: Marc Scott. Tweaked by Paul Dougall tweaked further by C Delport
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/stcd11/7-SC-Mechanisms">Fork me on GitHub</a>
+        </div>
+    </div>
+    <div class="github-fork-ribbon-wrapper right-bottom">
+        <div class="github-fork-ribbon">
+            <a href="../index.html">Back to Index</a>
+        </div>
+    </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="4_Lesson.html">Week4</a></li>
+      <li><a href="5_Lesson.html">Week5</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
+      <li><a href="assessment.html">Assessment</a></li>
+    </ul>
+  </div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Making your own follower parts.
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+- In this section you are going to design and make your additions to your followers.
+- These could be purely for decoration, or serve some function.
+- Here's one with some model tools placed on the top.
+[[file:img/tools.gif]]
+- Here's one with some decorative parts on the top.
+file:img/tweetie.gif 
+
+- Here are some videos to help:
+
+- The first video will show you how to use Autotrace a feature in Solidworks which allows to create a sketch around an image.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85taO_TI1Rw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#+END_HTML
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PPzlnET1sKQ" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+- The second video will show you show you how to make a custom top to go on the follower axles.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cd9_eNa3wJQ" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+- The final video shows you how to take your Solidworks parts and import them into 2D Design ready to be cut on the lasercutter.
+
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e54Kv9vir3w" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Design your parts in SolidWorks, and take screen shots of the parts.
+- Remember to think about how they are going to attach to your follower caps.
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+- Convert your sketches to .dxf, then import them into TechSoft2D
+- Laser cut your parts and add them to your Cam mechanism project.
+- Take photos of your mechanism using standard elevations.
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Add your parts to your Cam assembly, so that they move as the Cams rotate.
+- Create a video of the assembly moving.
