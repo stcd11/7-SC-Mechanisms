@@ -155,6 +155,9 @@
 [[file:img/build/build_part2_10.jpg]]
 [[file:img/build/build_part2_11.jpg]]
 - Now tape these parts to the side of your frame, *Do not push it through the frame, as this will glue it in place.*
+[[./img/cam_base1.JPG]]
+[[./img/cam_base2.JPG]]
+[[./img/cam_base3.JPG]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
