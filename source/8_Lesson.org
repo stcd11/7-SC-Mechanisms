@@ -152,7 +152,7 @@ be able to master.
 - Repeat with all your parts that you need to cut.
 - Below is a video to help
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tCrKIf2MbrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEu4DCv8zLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+END_HTML
 
 ** Learn It - Import a DXF file into 2D Design
@@ -166,7 +166,7 @@ be able to master.
 - Change the lines to red and move into the corner.
 - Below is a video to help
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NEu4DCv8zLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SvVxidLL_Z8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #+END_HTML
 
 ** Learn It - Final checks and send to the lasercutter
