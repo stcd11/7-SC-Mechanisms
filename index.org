@@ -52,7 +52,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/7_homework.html][Homework]]
+* [[file:pages/7_homework.html][BBL Tasks]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
