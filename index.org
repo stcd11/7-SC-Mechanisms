@@ -39,6 +39,11 @@
 :HTML_CONTAINER_CLASS: link-heading
 :END:      
 
+* [[file:pages/6_Lesson.html][Week 6 - Planning your automata]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:      
+
 * [[file:pages/7_Lesson.html][Week 7 - Make your own parts 2D Design]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
